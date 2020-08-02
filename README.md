@@ -19,7 +19,7 @@ This project is created with:
 * jQuery: 3.4.1
 * xlsx.js: 
 * FileSaverjs: 2.0.2
-* Foundataion: 6.6.1
+* Foundation: 6.6.1
 
 ## Setup
 This project requires that your PHP version supports the argon2i encryption for passwords.
