@@ -1,0 +1,9 @@
+.main{
+    width: 100%;
+    background-color: #fff;
+}
+.main-section{
+    width:80%;
+    margin: 0 auto;
+    background-color: black;
+}
